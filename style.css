@@ -1,0 +1,81 @@
+h1{
+    color: red;
+    background-color: black;
+}
+button{
+    color: blue;
+    background-color: yellow;
+}
+p{
+    color: violet;
+} */
+ /* h2{
+    color: orange;
+
+ }
+ button{
+    color:white;
+
+    background-color: blue;
+ }
+ p{
+    color:#ff00ff;
+    background-color: black;
+ } */
+ /* p{
+    color: rgb(0,150,255);
+
+ }
+ h3{
+    color:#aaff00
+ }
+*{
+   color:rgb(220, 95, 23);
+   
+
+}
+h1{
+   color: maroon;
+}
+#login{
+   color: black;
+   background-color: aquamarine;
+}
+#signup{
+   background-color: brown;
+   color: bisque;
+}
+.upvote{
+   background-color: chartreuse;
+   color: aliceblue;
+}
+.ans{
+   background-color: rgb(226, 43, 43);
+   color: blanchedalmond;
+}
+
+
+
+/* decendend selector */
+nav ul li a{
+   color: skyblue;
+}
+p a{
+   color: blueviolet;
+   background-color: bisque;
+}
+p + h3{
+   text-decoration:line-through;
+}
+p{
+   text-align: start;
+}
+.ans+button{
+   color: yellow;
+}
+div>input{
+   background-color: lightcyan;
+   color:blue;
+
+
+}
